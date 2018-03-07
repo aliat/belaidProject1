@@ -1,3 +1,1 @@
-this is the second text file that we are making.
-change to  
-changed again
+this is changes to the second file
