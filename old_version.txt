@@ -1,0 +1,2 @@
+ p->System.out.println(p) is a consumer
+ so what ever you pass through the for each is going to get called for each element in list.
