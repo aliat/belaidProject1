@@ -7,5 +7,6 @@ update it to 21/03
 updated in remote
 some changes regarding feature 1
 add a line and remove the second line inthe file 
-add a line on 10/04/2018
-second changes on 10/04/2018
+add a line on 10/04/2018 
+second changes on 10/04/2018 
+developer x add this line. 
